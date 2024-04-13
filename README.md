@@ -58,16 +58,21 @@ Welcome to the Okmart E-commerce Website project! This is a PHP-based e-commerce
 7. **Access the Website:** Open your web browser and navigate to [http://localhost/okmart](http://localhost/okmart) to access the Okmart E-commerce Website.
 
 ## Screenshots
+![image](https://github.com/OmiTech27/OKmart/assets/37969779/0ed9cd90-5b8d-460e-a5ae-744cc02f44c5)
 
-Insert screenshots of your project here to showcase its appearance and functionality.
+![image](https://github.com/OmiTech27/OKmart/assets/37969779/4732266a-8c6c-4e63-b30d-d6a51097865e)
 
-## Features
 
-- List the key features of your Okmart E-commerce Website project.
+![image](https://github.com/OmiTech27/OKmart/assets/37969779/90a8053e-e870-43fc-8e15-2c6e05d7daee)
 
-## Directory Structure
+![image](https://github.com/OmiTech27/OKmart/assets/37969779/876a7195-9673-4a6a-bec8-8828a186fbc4)
 
-Provide a brief overview of the project's directory structure.
+![image](https://github.com/OmiTech27/OKmart/assets/37969779/cf52f721-1d45-4b54-af1b-e1525d0ca580)
+
+![image](https://github.com/OmiTech27/OKmart/assets/37969779/2a61b98f-5ed8-400b-99c7-f7872223787c)
+
+
+
 
 
 ## Contributing
